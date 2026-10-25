@@ -1,0 +1,12 @@
+{
+  "name": "Cipher Bay",
+  "symbol": "CIPH",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "CIPH Token on Polygon",
+  "website": "",
+  "explorer": "https://polygonscan.com/token/0x2707734f98151d94212c09f998717962b8588cc4",
+  "status": "active",
+  "id": "0x2707734f98151d94212c09f998717962b8588cc4",
+  "socials": []
+}
